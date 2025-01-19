@@ -1,0 +1,5 @@
+.image-right {
+  float: right;
+  width: 40%; /* 調整圖片寬度 */
+  margin-left: 10px; /* 添加左側間距，避免文字貼近圖片 */
+}
